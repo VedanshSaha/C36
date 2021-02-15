@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #2E8B57;
+}
+canvas{
+  border: 2px solid black;
+  margin-top:100px;
+  margin-left: 275px;
+  /* background-color: #2E8B57; */
+}
